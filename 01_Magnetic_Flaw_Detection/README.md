@@ -3,7 +3,7 @@
 
 ## Project description
 
-Magnetic flaw detection measurements were made. During each measurement, three channels were recorded. Each measurement contains info about defect location: external (OD) or internal (ID). Also, defects may belong to the different types (e.g. corrosion, scratch, etc.). //
+Magnetic flaw detection measurements were made. During each measurement, three channels were recorded. Each measurement contains info about defect location: external (OD) or internal (ID). Also, defects may belong to the different types (e.g. corrosion, scratch, etc.). \n
 245 measurements of a pipe were made in total. 100 measurements are classified with defect location (OD or ID) and represented in the dataset for modelling purposes. Other 145 measurements have hidden values of defect location and they are need to be predicted.
 
 Tasks:
