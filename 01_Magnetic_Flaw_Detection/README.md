@@ -50,5 +50,3 @@ Exploratory data analysis demonstrates that:
 - Channel 1 data for both defects locations (OD and ID) has high negative skewness. The mean and median are less than the mode. Median amplitude of measurements is higher than mean (average) amplitude through all dataset. indicating presense of extrimely low values in dataset.
 - Channel 2 data for both defect locations (OD and ID) has high positive skewness. The mean and median are more than the mode. Median amplitude of measurements is lower than mean (average) amplitude indicating presense of extrimely high values in dataset.
 - It was found that the kurtosis is highly different for data distribution analysis of OD and ID defects. Additional data features were generated - kurtosis for every measurement number for each of three channels.
-
-For supervised learning by binary classification the following models were evaluated. To discover patterns and information that was previously undetected, clustering models were used in unsupervised learning.
