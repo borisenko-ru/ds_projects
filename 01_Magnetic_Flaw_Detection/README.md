@@ -14,8 +14,6 @@ Unsupervised clustering: Try to split defects into types using different cluster
 
 ## Data description
 
-**Технологический процесс**
-
 - id - measurement number
 - time - measurement time, sec
 - ch0 - channel with measurements 0
