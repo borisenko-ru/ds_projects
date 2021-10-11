@@ -3,13 +3,13 @@
 
 ## Project description
 
-Magnetic flaw detection measurements were made. During each measurement, three channels were recorded. Each measurement contains info about defect location: external (OD) or internal (ID). Also, defects may belong to the different types (e.g. corrosion, scratch, etc.).
+Magnetic flaw detection measurements were made. During each measurement, three channels were recorded. Each measurement contains info about defect location: external (OD) or internal (ID). Also, defects may belong to the different types (e.g. corrosion, scratch, etc.). \\
 245 measurements of a pipe were made in total. 100 measurements are classified with defect location (OD or ID) and represented in the dataset for modelling purposes. Other 145 measurements have hidden values of defect location and they are need to be predicted.
 
 Tasks:
-EDA (exploratory data analysis). Draw conclusions.
-Supervised classification - using provided labels train model(s), predict defect location for unlabeled samples. Metrics - F1 score (weighted). Goal - score > 0.8
-Unsupervised clustering: Try to split defects into types using different clustering methods. Demonstrate the most typical representative of each cluster.
+- EDA (exploratory data analysis). Draw conclusions.
+- Supervised classification - using provided labels train model(s), predict defect location for unlabeled samples. Metrics - F1 score (weighted). Goal - score > 0.8
+- Unsupervised clustering: Try to split defects into types using different clustering methods. Demonstrate the most typical representative of each cluster.
 
 
 ## Data description
