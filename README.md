@@ -10,7 +10,7 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Дефектоскопия](01_Magnetic_Flaw_Detection) | Определение местоположения дефектов трубопровода | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn* |
 | [Сегментирование клиентов](02_Customer_Segmentation) | Определение категории клиентов компании | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn*, *catboost* |
-| [Истощение сотрудников](03_Employee_Attrition) | Определение критериев оттока сотрудников | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn* |
+| [Истощение сотрудников](03_Employee_Attrition) | Определение критериев истощения и ухода сотрудников | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn* |
 
 ## Контакты
 
